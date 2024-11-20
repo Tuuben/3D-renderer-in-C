@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "pikuma-3dRenderer",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/3drenderer/assets"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "c",
+			"stdio.h": "c"
+		}
+	}
+}
